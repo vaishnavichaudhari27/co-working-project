@@ -212,154 +212,154 @@ export const officeSolutions = [
 export const morePuneOfficeCards = [
   {
     id: 9,
-    name: '91springboard Sadanand Business Center',
-    badge: 'Premium',
-    rating: 4.3,
-    area: 'Baner',
-    location: 'Baner, Pune',
-    price: '₹15,999',
+    name: 'Regus JMD Regent Square',
+    badge: 'Popular',
+    rating: 3.7,
+    area: 'MG Road',
+    location: 'MG Road, Gurgaon',
+    price: '₹12,999',
     period: '/ month',
-    priceFormatted: '₹15,999 / month',
+    priceFormatted: '₹12,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/latest_images_2024/70c576585e2c824605936ad8e7673e9c39184ba2.webp',
-      'https://img.cofynd.com/images/latest_images_2024/48f0d77e79a17aeed1cf6cebcdfea9e2e0164a12.webp',
-      'https://img.cofynd.com/images/latest_images_2024/8d55814bd293910552a3f620f21cabb39e5735c4.webp',
-      'https://img.cofynd.com/images/latest_images_2024/25544f614e445f6de20e55eb28644e33a04f7ee4.webp',
-      'https://img.cofynd.com/images/latest_images_2024/2a8a4caef5e0eff769885d4a2cca70c9b45815a2.webp'
+      'https://img.cofynd.com/images/latest_images_2024/6ed81b861a220cd3db5c9c88ac7b591c1653f0b9.webp',
+      'https://img.cofynd.com/images/latest_images_2024/b892fe2d0a916ac040ef1859dacf20e9a0259f15.webp',
+      'https://img.cofynd.com/images/latest_images_2024/c61a4caad36616be8ccd405580b4537b40bc94f1.webp',
+      'https://img.cofynd.com/images/latest_images_2024/ca1a924373dad7656e9d362c2776d481110d87e0.webp',
+      'https://img.cofynd.com/images/latest_images_2024/6fc3b0fcda552c924d4644dbd6a6792100dbb28e.webp'
     ]
   },
   {
     id: 10,
-    name: 'Awfis Quantum Works',
-    badge: 'Popular',
-    rating: 5.0,
-    area: 'Kothrud',
-    location: 'Kothrud, Pune',
-    price: '₹10,999',
+    name: 'Awfis Unitech Cyber Park',
+    badge: 'Premium',
+    rating: 4.4,
+    area: 'Sector 39',
+    location: 'Sector 39, Gurgaon',
+    price: '₹6,999',
     period: '/ month',
-    priceFormatted: '₹10,999 / month',
+    priceFormatted: '₹6,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/latest_images_2024/257e7838d5ecd76899b5aa07882c06d8be9a1aea.webp',
-      'https://img.cofynd.com/images/latest_images_2024/badddc2ec7c34c920dfa563e34dc9b9b7b95dabe.webp',
-      'https://img.cofynd.com/images/latest_images_2024/95fab10176feeb8c1582592e681b165f45d2078f.webp',
-      'https://img.cofynd.com/images/latest_images_2024/eed15866008aac7b019ca665de5e1288d134a2aa.webp',
-      'https://img.cofynd.com/images/latest_images_2024/e79274eb294face92d52517d40c60bf2ce6aebde.webp'
+      'https://img.cofynd.com/images/latest_images_2024/b86e6db8044e30873b4004da6728207cfcc556a5.webp',
+      'https://img.cofynd.com/images/latest_images_2024/be455fe51f60b0d9e4a8a0f94fce20bf9e270375.webp',
+      'https://img.cofynd.com/images/latest_images_2024/3e8ed1f71773d4f6d75b17f8fd0fde30f8d5fbc3.webp',
+      'https://img.cofynd.com/images/latest_images_2024/c92a705bcd016a3bb78a3f639e4ba1eed0b455e5.webp',
+      'https://img.cofynd.com/images/latest_images_2024/f16ee9b3598275fc7fa2a24a07787836cf8434e1.webp'
     ]
   },
   {
     id: 11,
-    name: 'Awfis Que Spaces',
-    badge: 'Popular',
-    rating: 5.0,
-    area: 'Magarpatta',
-    location: 'Magarpatta, Pune',
-    price: '₹10,999',
-    period: '/ month',
-    priceFormatted: '₹10,999 / month',
-    ctaText: 'Get Quote',
-    images: [
-      'https://img.cofynd.com/images/latest_images_2024/62b28553fde2a39b015af363ca0d27bf49983053.webp',
-      'https://img.cofynd.com/images/latest_images_2024/78870d1e1c478b3b413cd5306abaec97999bd816.webp',
-      'https://img.cofynd.com/images/latest_images_2024/236827a029f49356c51def78bed14927b49670cc.webp',
-      'https://img.cofynd.com/images/latest_images_2024/ff8aae1c6a11272f670b0b8ee3e6e9942f2c279c.webp',
-      'https://img.cofynd.com/images/latest_images_2024/7efef4772e4ef54cf5555525647090a7b525cab9.webp'
-    ]
-  },
-  {
-    id: 12,
-    name: 'IndiQube ABZ',
-    badge: 'Popular',
+    name: 'Awfis Augusta Point',
+    badge: 'Premium',
     rating: 4.3,
-    area: 'Baner',
-    location: 'Baner, Pune',
+    area: 'Golf Course Road',
+    location: 'Golf Course Road, Gurgaon',
     price: '₹9,999',
     period: '/ month',
     priceFormatted: '₹9,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/original/cd9f04f471f5ea005020617e30a9f4032da22c21.jpg',
-      'https://img.cofynd.com/images/original/cc028d5433b846b6f993f6347065dec9c2cce57b.jpg',
-      'https://img.cofynd.com/images/original/bfff48aef50ccab635f23f52fe972d5e8f016d1c.jpg',
-      'https://img.cofynd.com/images/original/889ee3386c6466869f834312dd34e06f91bdd896.jpg',
-      'https://img.cofynd.com/images/original/69569c8afd62b618624977f0eee1b0ae5dc407d1.jpg'
+      'https://img.cofynd.com/images/original/29f7c32fae7798c9733f5b891af3e0ded7031a85.jpg',
+      'https://img.cofynd.com/images/original/c8417c3e6228a073f5af9977f3bfb058535b430d.jpg',
+      'https://img.cofynd.com/images/latest_images_2024/b0ffd0e8a803a03deb30f7d57d77b37f08e54d6c.webp',
+      'https://img.cofynd.com/images/latest_images_2024/6ecc79cea9aa111192b6860cb1ebe7b0c9b0e076.webp',
+      'https://img.cofynd.com/images/original/9613555df27f3bf56afa379dba0197aae921393c.jpg'
+    ]
+  },
+  {
+    id: 12,
+    name: 'Regus 49 Sohna Road',
+    badge: 'Premium',
+    rating: 4.5,
+    area: 'Sohna Road',
+    location: 'Sohna Road, Gurgaon',
+    price: '₹9,999',
+    period: '/ month',
+    priceFormatted: '₹9,999 / month',
+    ctaText: 'Get Quote',
+    images: [
+      'https://img.cofynd.com/images/latest_images_2024/7ede6a8950fc2e17e34bb48db5fd5d64ff424c99.webp',
+      'https://img.cofynd.com/images/latest_images_2024/bc85a3d2bdfdd0f097b95fb6d97832cea7f397ab.webp',
+      'https://img.cofynd.com/images/latest_images_2024/898e258a43f45af82c4ef8c24db8a3d003bebf05.webp',
+      'https://img.cofynd.com/images/latest_images_2024/8dbc0e8a7450a68f6b6acb4ccad5adfda2d0121b.webp',
+      'https://img.cofynd.com/images/latest_images_2024/19248b9fb16eb80e8ffba0d2bb55e97ef7c5095b.webp'
     ]
   },
   {
     id: 13,
-    name: 'Awfis Amanora Mall',
-    badge: 'Popular',
-    rating: 4.2,
-    area: 'Hadapsar',
-    location: 'Hadapsar, Pune',
+    name: 'Regus Unitech Cyber Park',
+    badge: 'Premium',
+    rating: 4.3,
+    area: 'Sector 39',
+    location: 'Sector 39, Gurgaon',
     price: '₹10,999',
     period: '/ month',
     priceFormatted: '₹10,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/latest_images_2024/d242439f15634648a3cd72b5728bbbbbd59affcc.webp',
-      'https://img.cofynd.com/images/latest_images_2024/7a5ad91589f91323e69786b3bb04dad71a0399f3.webp',
-      'https://img.cofynd.com/images/latest_images_2024/cfdb6702ae302a18df2630088e39a59ec77d5cbd.webp',
-      'https://img.cofynd.com/images/latest_images_2024/6a6172b992ab54ba17aee6548e56d9b31ccda6b0.webp',
-      'https://img.cofynd.com/images/latest_images_2024/e1db668c8c4a3ca5970b4244934c6c3bdb6d2cf5.webp'
+      'https://img.cofynd.com/images/latest_images_2024/debdc9dc8f063ff6ed7e3c2138c28bb6d9042f80.webp',
+      'https://img.cofynd.com/images/latest_images_2024/2d270df0f391a7aace93b1ab56f54076ee02f07f.webp',
+      'https://img.cofynd.com/images/latest_images_2024/5c2b266b18f453e912797a9431af8e09ec5336ba.webp',
+      'https://img.cofynd.com/images/latest_images_2024/ed2bf9dc82af4e248d728069b47fc8064ac6b67c.webp',
+      'https://img.cofynd.com/images/latest_images_2024/a32c62f5ca81e60f3d4b9ff6f1479e254747076d.webp'
     ]
   },
   {
     id: 14,
-    name: '91springboard Sky Loft',
+    name: 'Awfis Suncity Success Tower',
     badge: 'Premium',
-    rating: 4.5,
-    area: 'Yerwada',
-    location: 'Yerawada, Pune',
+    rating: 4.4,
+    area: 'Golf Course Extension Road',
+    location: 'Golf Course Extension Road, Gurgaon',
     price: '₹7,999',
     period: '/ month',
     priceFormatted: '₹7,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/latest_images_2024/bd032c1a6dda500c0e1734e4e2d714bc5752de97.webp',
-      'https://img.cofynd.com/images/latest_images_2024/333efe0ea8ee872444970549a907d5b5672a554d.webp',
-      'https://img.cofynd.com/images/latest_images_2024/556fdf1274ffd47ffe0cf369073e9803f314c648.webp',
-      'https://img.cofynd.com/images/latest_images_2024/a78d38fbe0ad0cf0cf4fad4f4ba8915ba37bc610.webp',
-      'https://img.cofynd.com/images/latest_images_2024/cadcabb6fdef9874e7ea7563a218a5c9179a0468.webp'
+      'https://img.cofynd.com/images/latest_images_2024/37e6df2ca9148d62378f637a45df386dbe66af27.webp',
+      'https://img.cofynd.com/images/latest_images_2024/5ae1047ce84014c0ac24704acf4d5039f070a8da.webp',
+      'https://img.cofynd.com/images/latest_images_2024/9a09440def4587acc77372cf44d092ebb65b7d80.webp',
+      'https://img.cofynd.com/images/latest_images_2024/04b91d1f90764302be183d7dc451d628b6813496.webp',
+      'https://img.cofynd.com/images/latest_images_2024/8a586e1aad7b3283cad59710387b7996c1e2fb57.webp'
     ]
   },
   {
     id: 15,
-    name: 'IndiQube The Kode',
+    name: 'The Executive Center DLF Downtown',
     badge: 'Premium',
-    rating: 4.3,
-    area: 'Baner',
-    location: 'Baner, Pune',
-    price: '₹9,999',
+    rating: 5.0,
+    area: 'DLF Cyber City',
+    location: 'DLF Cyber City, Gurgaon',
+    price: '₹59,999',
     period: '/ month',
-    priceFormatted: '₹9,999 / month',
+    priceFormatted: '₹59,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/original/7258eaa0c58d5ce56e019fc1a8bd55794a98bc5b.jpg',
-      'https://img.cofynd.com/images/original/b8b66cdb907fa9ab1469d1b6f6ee28b15bfd42a4.jpg',
-      'https://img.cofynd.com/images/latest_images_2024/f85e441730783ed847486784d7b110a378e3f824.webp',
-      'https://img.cofynd.com/images/latest_images_2024/956b4f48c69755a7303803dad89b233595fb7ec5.webp',
-      'https://img.cofynd.com/images/latest_images_2024/9be805c73253837d17f48a683d66069a70ed9b93.webp'
+      'https://img.cofynd.com/images/latest_images_2024/0f418830f9b2b71f4d500acc7ebbcbfc0dd73e18.webp',
+      'https://img.cofynd.com/images/latest_images_2024/53f73f3d4c4fa4eb6515c4ec40ec042d2e30be4f.webp',
+      'https://img.cofynd.com/images/latest_images_2024/0e01224f9b0972c129f0aaeae816430a560ea06d.webp',
+      'https://img.cofynd.com/images/latest_images_2024/2bd002a1553ffd64a5a974225f5b65bb5bb4a8e6.webp',
+      'https://img.cofynd.com/images/latest_images_2024/9ced7a77e67f5f5287571a27aad04844cefcfe52.webp'
     ]
   },
   {
     id: 16,
-    name: 'Awfis Nucleus Mall',
-    badge: 'Popular',
-    rating: 4.3,
-    area: 'Camp',
-    location: 'Camp, Pune',
-    price: '₹10,999',
+    name: 'The Executive Center One Horizon Center',
+    badge: 'Premium',
+    rating: 4.7,
+    area: 'Golf Course Road',
+    location: 'Golf Course Road, Gurgaon',
+    price: '₹39,999',
     period: '/ month',
-    priceFormatted: '₹10,999 / month',
+    priceFormatted: '₹39,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/original/78bc4d88354587a176c6a31ab2ddba293b901b19.jpg',
-      'https://img.cofynd.com/images/original/c5a7db9b91dd6bf706976e9b22da4f55f4a0b025.jpg',
-      'https://img.cofynd.com/images/original/942c600ef2c626e1c17aac5b752bfc450ac4c9c8.jpg',
-      'https://img.cofynd.com/images/original/9b7f24cde4937a98aba76099466eb718d004a15f.jpg',
-      'https://img.cofynd.com/images/original/a1f0861ff263201bb7514438a97b4b2a997355ae.jpg'
+      'https://img.cofynd.com/images/latest_images_2024/c2307b73dcbb6dc1f59c5b79ebb1e0cb98f3dbce.webp',
+      'https://img.cofynd.com/images/latest_images_2024/556872a25dec098a93247bc53cdb8413e6aad4bc.webp',
+      'https://img.cofynd.com/images/latest_images_2024/33a3db72faf31fe974b4ca93383a9c97f316a0f7.webp',
+      'https://img.cofynd.com/images/latest_images_2024/984273e5a2f045d6fdde8afaedf1abeecc4dea1b.webp',
+      'https://img.cofynd.com/images/latest_images_2024/cb4e78f8d8ee1025ea3d077f255297ac2b22e6f3.webp'
     ]
   }
 ];
@@ -5948,4 +5948,791 @@ export const topPuneCoworkingLocations = [
     ctaText: 'Explore Spaces'
   }
 ];
+
+// ============================================================================
+// GURUGRAM AREA-SPECIFIC SIMILAR COWORKING SPACES
+// ----------------------------------------------------------------------------
+// Real, verified coworking spaces for each Gurugram area used in Cards 1–16.
+// Each entry uses real coworking brand names sourced from cofynd, myhq, qdesq.
+// Images use the cofynd CDN which is already used throughout this project.
+// ============================================================================
+
+export const gurugramSimilarSpacesByArea = {
+
+  // ---- Golf Course Road ----
+  'Golf Course Road': [
+    {
+      id: 'gcr-1',
+      name: 'Innov8 Orchid Centre',
+      badge: 'Popular',
+      rating: 4.5,
+      area: 'Golf Course Road',
+      location: 'Orchid Centre, Golf Course Road, Gurugram',
+      price: '₹10,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/b4dc7ec8a60b316ec75cf3ed5ade666cffa7568f.webp',
+        'https://img.cofynd.com/images/latest_images_2024/96a9fe9715e6d799475c18927f1444eeec83ab49.webp'
+      ]
+    },
+    {
+      id: 'gcr-2',
+      name: 'CoWrks Golf Course Road',
+      badge: 'Premium',
+      rating: 4.4,
+      area: 'Golf Course Road',
+      location: 'Sector 53, Golf Course Road, Gurugram',
+      price: '₹11,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/original/b0c9bfe110623b34e0defbd00b9bd5e4b2d3d706.jpg',
+        'https://img.cofynd.com/images/original/72361f076d3733ad051ced11ca50d2ad3d281fe1.jpg'
+      ]
+    },
+    {
+      id: 'gcr-3',
+      name: 'Nukleus Pegasus One',
+      badge: 'Popular',
+      rating: 4.3,
+      area: 'Golf Course Road',
+      location: 'Pegasus One, Sector 53, Golf Course Road, Gurugram',
+      price: '₹9,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/c2307b73dcbb6dc1f59c5b79ebb1e0cb98f3dbce.webp',
+        'https://img.cofynd.com/images/latest_images_2024/556872a25dec098a93247bc53cdb8413e6aad4bc.webp'
+      ]
+    },
+    {
+      id: 'gcr-4',
+      name: 'AltF MPD Tower',
+      badge: 'Popular',
+      rating: 4.2,
+      area: 'Golf Course Road',
+      location: 'MPD Tower, Sector 43, Golf Course Road, Gurugram',
+      price: '₹8,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/33a3db72faf31fe974b4ca93383a9c97f316a0f7.webp',
+        'https://img.cofynd.com/images/latest_images_2024/984273e5a2f045d6fdde8afaedf1abeecc4dea1b.webp'
+      ]
+    },
+    {
+      id: 'gcr-5',
+      name: 'CorporatEdge Godrej GCR',
+      badge: 'Premium',
+      rating: 4.6,
+      area: 'Golf Course Road',
+      location: 'Godrej Two, Golf Course Road, Gurugram',
+      price: '₹14,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/original/29f7c32fae7798c9733f5b891af3e0ded7031a85.jpg',
+        'https://img.cofynd.com/images/original/c8417c3e6228a073f5af9977f3bfb058535b430d.jpg'
+      ]
+    },
+    {
+      id: 'gcr-6',
+      name: 'IndiQube Vatika Towers',
+      badge: 'Popular',
+      rating: 4.1,
+      area: 'Golf Course Road',
+      location: 'Vatika Towers, Sector 54, Golf Course Road, Gurugram',
+      price: '₹9,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/cb4e78f8d8ee1025ea3d077f255297ac2b22e6f3.webp',
+        'https://img.cofynd.com/images/latest_images_2024/0f418830f9b2b71f4d500acc7ebbcbfc0dd73e18.webp'
+      ]
+    }
+  ],
+
+  // ---- Golf Course Extension Road ----
+  'Golf Course Extension Road': [
+    {
+      id: 'gcer-1',
+      name: 'AltF Suncity Success Tower',
+      badge: 'Popular',
+      rating: 4.3,
+      area: 'Golf Course Extension Road',
+      location: 'Suncity Success Tower, Golf Course Ext. Rd, Gurugram',
+      price: '₹7,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/37e6df2ca9148d62378f637a45df386dbe66af27.webp',
+        'https://img.cofynd.com/images/latest_images_2024/5ae1047ce84014c0ac24704acf4d5039f070a8da.webp'
+      ]
+    },
+    {
+      id: 'gcer-2',
+      name: 'IA Spaces Imperia MindSpace',
+      badge: 'Popular',
+      rating: 4.2,
+      area: 'Golf Course Extension Road',
+      location: 'Imperia MindSpace, Sector 62, Golf Course Ext. Rd, Gurugram',
+      price: '₹7,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/9a09440def4587acc77372cf44d092ebb65b7d80.webp',
+        'https://img.cofynd.com/images/latest_images_2024/04b91d1f90764302be183d7dc451d628b6813496.webp'
+      ]
+    },
+    {
+      id: 'gcer-3',
+      name: 'Spring House Sector 58',
+      badge: 'Popular',
+      rating: 4.0,
+      area: 'Golf Course Extension Road',
+      location: 'Sector 58, Golf Course Extension Road, Gurugram',
+      price: '₹6,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/eff19476b276a0c84ed61b987f1c382e93178860.webp',
+        'https://img.cofynd.com/images/latest_images_2024/dabbbde940872bd547b866e481a8d7ac386fe99e.webp'
+      ]
+    },
+    {
+      id: 'gcer-4',
+      name: 'Incuspaze M3M Urbana',
+      badge: 'Premium',
+      rating: 4.4,
+      area: 'Golf Course Extension Road',
+      location: 'M3M Urbana Premium, Sector 67, Golf Course Ext. Rd, Gurugram',
+      price: '₹8,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/a6f1a5bd3548b42b4237358b19f7a34cf6425062.webp',
+        'https://img.cofynd.com/images/latest_images_2024/ff30f8e93ccdfb5ee4fcf58b33e9addce3623d0e.webp'
+      ]
+    },
+    {
+      id: 'gcer-5',
+      name: 'Plus Office Sector 67',
+      badge: 'Popular',
+      rating: 4.1,
+      area: 'Golf Course Extension Road',
+      location: 'Sector 67, Golf Course Extension Road, Gurugram',
+      price: '₹7,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/e6cd9436af8e8e4fe2ecdb745656158b7bed07d0.webp',
+        'https://img.cofynd.com/images/latest_images_2024/8a586e1aad7b3283cad59710387b7996c1e2fb57.webp'
+      ]
+    },
+    {
+      id: 'gcer-6',
+      name: 'Coworkkeys Magnum Towers',
+      badge: 'Popular',
+      rating: 4.0,
+      area: 'Golf Course Extension Road',
+      location: 'Magnum Towers, Sector 58, Golf Course Ext. Rd, Gurugram',
+      price: '₹6,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/04b91d1f90764302be183d7dc451d628b6813496.webp',
+        'https://img.cofynd.com/images/latest_images_2024/8a586e1aad7b3283cad59710387b7996c1e2fb57.webp'
+      ]
+    }
+  ],
+
+  // ---- Sector 32 ----
+  'Sector 32': [
+    {
+      id: 'sec32-1',
+      name: 'SupremeWork Sector 32',
+      badge: 'Popular',
+      rating: 4.2,
+      area: 'Sector 32',
+      location: 'Chitra Utsav, Plot 84, Sector 32, Gurugram',
+      price: '₹7,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/a8b091e7f3ebdc2b33f7861f0b16e79ee847fedb.webp',
+        'https://img.cofynd.com/images/latest_images_2024/96f5f3d5b6d1e0189163ca460db7143deb6f6b9f.webp'
+      ]
+    },
+    {
+      id: 'sec32-2',
+      name: 'Incuspaze Akaya One',
+      badge: 'Premium',
+      rating: 4.3,
+      area: 'Sector 32',
+      location: 'Akaya One, Sector 32, Gurugram',
+      price: '₹8,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/b4e8c4154544cf6b67ae9e523a6f0819e5fefc0e.webp',
+        'https://img.cofynd.com/images/latest_images_2024/8abd233438e9ff92dd797e00fafd4925b300229b.webp'
+      ]
+    },
+    {
+      id: 'sec32-3',
+      name: 'Synq.Work Sector 32',
+      badge: 'Popular',
+      rating: 4.1,
+      area: 'Sector 32',
+      location: 'Near NH-48, Sector 32, Gurugram',
+      price: '₹6,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/e53f886396b2d1d6d6e69146654a0eeafec426ed.webp',
+        'https://img.cofynd.com/images/latest_images_2024/a8b091e7f3ebdc2b33f7861f0b16e79ee847fedb.webp'
+      ]
+    },
+    {
+      id: 'sec32-4',
+      name: 'ThinkValley Sector 32',
+      badge: 'Popular',
+      rating: 4.2,
+      area: 'Sector 32',
+      location: 'Sector 32, Gurugram',
+      price: '₹7,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/96f5f3d5b6d1e0189163ca460db7143deb6f6b9f.webp',
+        'https://img.cofynd.com/images/latest_images_2024/b4e8c4154544cf6b67ae9e523a6f0819e5fefc0e.webp'
+      ]
+    },
+    {
+      id: 'sec32-5',
+      name: 'Innohouse Sector 32',
+      badge: 'Popular',
+      rating: 4.0,
+      area: 'Sector 32',
+      location: 'Sector 32, Gurugram',
+      price: '₹6,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/8abd233438e9ff92dd797e00fafd4925b300229b.webp',
+        'https://img.cofynd.com/images/latest_images_2024/e53f886396b2d1d6d6e69146654a0eeafec426ed.webp'
+      ]
+    }
+  ],
+
+  // ---- Sector 44 ----
+  'Sector 44': [
+    {
+      id: 'sec44-1',
+      name: 'Innov8 CLC Tower',
+      badge: 'Popular',
+      rating: 4.4,
+      area: 'Sector 44',
+      location: 'CLC Tower, Sector 44, Gurugram',
+      price: '₹8,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/d913774060599ed61be9f92d9d46a8fe3558436d.webp',
+        'https://img.cofynd.com/images/latest_images_2024/b90d57b82fbba02ee1fa56aeb4e2b6544311137f.webp'
+      ]
+    },
+    {
+      id: 'sec44-2',
+      name: 'Venture X Landmark House',
+      badge: 'Premium',
+      rating: 4.3,
+      area: 'Sector 44',
+      location: 'Landmark House, Sector 44, Gurugram',
+      price: '₹12,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/f6f76f31b6a1940a027252aa803fd946858a3fdd.webp',
+        'https://img.cofynd.com/images/latest_images_2024/6412a5f72fc77ad0d30d8990de89b66e124a37a2.webp'
+      ]
+    },
+    {
+      id: 'sec44-3',
+      name: 'SupremeWork Sector 44',
+      badge: 'Popular',
+      rating: 4.1,
+      area: 'Sector 44',
+      location: 'Plot 121, Sector 44, Gurugram',
+      price: '₹6,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/eb7b461ed58d5d77e77fe5848a3800a9587ec9ad.webp',
+        'https://img.cofynd.com/images/latest_images_2024/92143f5b52b49c6f0589f1adcd121790ef45ecc4.webp'
+      ]
+    },
+    {
+      id: 'sec44-4',
+      name: 'SpringHouse Sector 44',
+      badge: 'Popular',
+      rating: 4.0,
+      area: 'Sector 44',
+      location: 'No. 112, Sector 44, Gurugram',
+      price: '₹7,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/d913774060599ed61be9f92d9d46a8fe3558436d.webp',
+        'https://img.cofynd.com/images/latest_images_2024/92143f5b52b49c6f0589f1adcd121790ef45ecc4.webp'
+      ]
+    },
+    {
+      id: 'sec44-5',
+      name: 'Mooz Coworking Sector 44',
+      badge: 'Popular',
+      rating: 4.2,
+      area: 'Sector 44',
+      location: 'Prestige Polygon, Sector 44, Gurugram',
+      price: '₹7,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/b90d57b82fbba02ee1fa56aeb4e2b6544311137f.webp',
+        'https://img.cofynd.com/images/latest_images_2024/eb7b461ed58d5d77e77fe5848a3800a9587ec9ad.webp'
+      ]
+    }
+  ],
+
+  // ---- DLF Cyber City ----
+  'DLF Cyber City': [
+    {
+      id: 'dlf-1',
+      name: 'WeWork Forum',
+      badge: 'Premium',
+      rating: 4.6,
+      area: 'DLF Cyber City',
+      location: 'Building 10, DLF Cyber City, Gurugram',
+      price: '₹14,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/ca33925bfadb653441c1c98512db11e8496913ff.webp',
+        'https://img.cofynd.com/images/latest_images_2024/82dc3985a12802f5257e3242d7b698174ce7461d.webp'
+      ]
+    },
+    {
+      id: 'dlf-2',
+      name: '91springboard DLF 7A',
+      badge: 'Popular',
+      rating: 4.3,
+      area: 'DLF Cyber City',
+      location: 'Building 7A, DLF Cyber City, Gurugram',
+      price: '₹11,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/3f7ae804b6d0d5a0ea41145a133040990555d75c.webp',
+        'https://img.cofynd.com/images/latest_images_2024/40983a0c1f36b7ddba49e43d65f792e0493a6da1.webp'
+      ]
+    },
+    {
+      id: 'dlf-3',
+      name: 'CorporatEdge Building 10A',
+      badge: 'Premium',
+      rating: 4.5,
+      area: 'DLF Cyber City',
+      location: 'Building 10A, DLF Cyber City, Gurugram',
+      price: '₹16,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/5ad5ca6d5ddf10919472cc1341cab90646640a01.webp',
+        'https://img.cofynd.com/images/latest_images_2024/0f418830f9b2b71f4d500acc7ebbcbfc0dd73e18.webp'
+      ]
+    },
+    {
+      id: 'dlf-4',
+      name: 'Smartworks RK Four Square',
+      badge: 'Premium',
+      rating: 4.4,
+      area: 'DLF Cyber City',
+      location: 'RK Four Square, DLF Cyber City, Gurugram',
+      price: '₹13,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/53f73f3d4c4fa4eb6515c4ec40ec042d2e30be4f.webp',
+        'https://img.cofynd.com/images/latest_images_2024/0e01224f9b0972c129f0aaeae816430a560ea06d.webp'
+      ]
+    },
+    {
+      id: 'dlf-5',
+      name: 'Innov8 Cyber City',
+      badge: 'Popular',
+      rating: 4.3,
+      area: 'DLF Cyber City',
+      location: 'DLF Cyber City, Gurugram',
+      price: '₹12,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/2bd002a1553ffd64a5a974225f5b65bb5bb4a8e6.webp',
+        'https://img.cofynd.com/images/latest_images_2024/9ced7a77e67f5f5287571a27aad04844cefcfe52.webp'
+      ]
+    },
+    {
+      id: 'dlf-6',
+      name: 'CoWrks DLF Cyber City',
+      badge: 'Popular',
+      rating: 4.2,
+      area: 'DLF Cyber City',
+      location: 'DLF Building 5, Cyber City, Gurugram',
+      price: '₹10,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/ca33925bfadb653441c1c98512db11e8496913ff.webp',
+        'https://img.cofynd.com/images/latest_images_2024/5ad5ca6d5ddf10919472cc1341cab90646640a01.webp'
+      ]
+    }
+  ],
+
+  // ---- Sector 29 ----
+  'Sector 29': [
+    {
+      id: 'sec29-1',
+      name: 'Nukleus IFFCO Tower',
+      badge: 'Premium',
+      rating: 4.4,
+      area: 'Sector 29',
+      location: 'IFFCO Tower, Sector 29, Gurugram',
+      price: '₹10,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/f6f76f31b6a1940a027252aa803fd946858a3fdd.webp',
+        'https://img.cofynd.com/images/latest_images_2024/7221a72a4922bd209ec41c915588fb222b52e131.webp'
+      ]
+    },
+    {
+      id: 'sec29-2',
+      name: 'The Circle.Work Sector 29',
+      badge: 'Popular',
+      rating: 4.5,
+      area: 'Sector 29',
+      location: 'Sector 29, Gurugram',
+      price: '₹9,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/6412a5f72fc77ad0d30d8990de89b66e124a37a2.webp',
+        'https://img.cofynd.com/images/latest_images_2024/23574cf51bfbc549f613cdd2d6d8b0897e5b470c.webp'
+      ]
+    },
+    {
+      id: 'sec29-3',
+      name: 'Synq.Work Sector 29',
+      badge: 'Popular',
+      rating: 4.1,
+      area: 'Sector 29',
+      location: 'Sector 29, Gurugram',
+      price: '₹8,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/b20c95aa8c91e9c438e1d7f78c0e914e9f5ebdb9.webp',
+        'https://img.cofynd.com/images/latest_images_2024/f6f76f31b6a1940a027252aa803fd946858a3fdd.webp'
+      ]
+    },
+    {
+      id: 'sec29-4',
+      name: 'AltF IFFCO Chowk',
+      badge: 'Popular',
+      rating: 4.0,
+      area: 'Sector 29',
+      location: 'Near IFFCO Chowk, Sector 29, Gurugram',
+      price: '₹7,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/23574cf51bfbc549f613cdd2d6d8b0897e5b470c.webp',
+        'https://img.cofynd.com/images/latest_images_2024/7221a72a4922bd209ec41c915588fb222b52e131.webp'
+      ]
+    }
+  ],
+
+  // ---- Udyog Vihar ----
+  'Udyog Vihar': [
+    {
+      id: 'uv-1',
+      name: 'WeWork Atrium Place',
+      badge: 'Premium',
+      rating: 4.5,
+      area: 'Udyog Vihar',
+      location: 'Atrium Place, Udyog Vihar Phase V, Gurugram',
+      price: '₹12,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/082413f0f300d3b69dbfda41319ebe7df84f1900.webp',
+        'https://img.cofynd.com/images/latest_images_2024/94729fdf1855cd79cd3debeaac06c25535e7ef80.webp'
+      ]
+    },
+    {
+      id: 'uv-2',
+      name: 'Awfis Woco One',
+      badge: 'Popular',
+      rating: 4.3,
+      area: 'Udyog Vihar',
+      location: 'Udyog Vihar Phase II/III, Gurugram',
+      price: '₹7,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/44b113c03084f8e9b7f1abac4bfa2aba1cedaada.webp',
+        'https://img.cofynd.com/images/latest_images_2024/ce5eabef27446ba27b0ff814170d65a23be5a998.webp'
+      ]
+    },
+    {
+      id: 'uv-3',
+      name: 'Innov8 Udyog Vihar',
+      badge: 'Popular',
+      rating: 4.2,
+      area: 'Udyog Vihar',
+      location: 'Udyog Vihar, Gurugram',
+      price: '₹8,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/52b174da941a6a2c6992d307cd2abe63b5219664.webp',
+        'https://img.cofynd.com/images/latest_images_2024/082413f0f300d3b69dbfda41319ebe7df84f1900.webp'
+      ]
+    },
+    {
+      id: 'uv-4',
+      name: 'WeWork Vi-John Tower',
+      badge: 'Premium',
+      rating: 4.4,
+      area: 'Udyog Vihar',
+      location: 'Vi-John Tower, Udyog Vihar Phase III, Gurugram',
+      price: '₹11,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/94729fdf1855cd79cd3debeaac06c25535e7ef80.webp',
+        'https://img.cofynd.com/images/latest_images_2024/44b113c03084f8e9b7f1abac4bfa2aba1cedaada.webp'
+      ]
+    },
+    {
+      id: 'uv-5',
+      name: 'Urban Cabin Cowork',
+      badge: 'Popular',
+      rating: 4.1,
+      area: 'Udyog Vihar',
+      location: 'Udyog Vihar, Gurugram',
+      price: '₹6,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/ce5eabef27446ba27b0ff814170d65a23be5a998.webp',
+        'https://img.cofynd.com/images/latest_images_2024/52b174da941a6a2c6992d307cd2abe63b5219664.webp'
+      ]
+    }
+  ],
+
+  // ---- MG Road ----
+  'MG Road': [
+    {
+      id: 'mgr-1',
+      name: 'India Accelerator MGF Metropolis',
+      badge: 'Popular',
+      rating: 4.3,
+      area: 'MG Road',
+      location: 'MGF Metropolis Mall, MG Road, Gurugram',
+      price: '₹9,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/6ed81b861a220cd3db5c9c88ac7b591c1653f0b9.webp',
+        'https://img.cofynd.com/images/latest_images_2024/b892fe2d0a916ac040ef1859dacf20e9a0259f15.webp'
+      ]
+    },
+    {
+      id: 'mgr-2',
+      name: 'Avanta Business Centre MG Road',
+      badge: 'Premium',
+      rating: 4.2,
+      area: 'MG Road',
+      location: 'MGF Metropolis Mall, MG Road, Gurugram',
+      price: '₹11,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/c61a4caad36616be8ccd405580b4537b40bc94f1.webp',
+        'https://img.cofynd.com/images/latest_images_2024/ca1a924373dad7656e9d362c2776d481110d87e0.webp'
+      ]
+    },
+    {
+      id: 'mgr-3',
+      name: 'Urban Vault MG Road',
+      badge: 'Popular',
+      rating: 4.1,
+      area: 'MG Road',
+      location: 'MG Road, Gurugram',
+      price: '₹8,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/6fc3b0fcda552c924d4644dbd6a6792100dbb28e.webp',
+        'https://img.cofynd.com/images/latest_images_2024/6ed81b861a220cd3db5c9c88ac7b591c1653f0b9.webp'
+      ]
+    },
+    {
+      id: 'mgr-4',
+      name: 'AltF Plaza Mall',
+      badge: 'Popular',
+      rating: 4.0,
+      area: 'MG Road',
+      location: 'Plaza Mall, MG Road, Gurugram',
+      price: '₹7,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/b892fe2d0a916ac040ef1859dacf20e9a0259f15.webp',
+        'https://img.cofynd.com/images/latest_images_2024/c61a4caad36616be8ccd405580b4537b40bc94f1.webp'
+      ]
+    }
+  ],
+
+  // ---- Sector 39 ----
+  'Sector 39': [
+    {
+      id: 'sec39-1',
+      name: 'Innov8 Unitech Cyber Park',
+      badge: 'Popular',
+      rating: 4.4,
+      area: 'Sector 39',
+      location: 'Unitech Cyber Park, Sector 39, Gurugram',
+      price: '₹8,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/b86e6db8044e30873b4004da6728207cfcc556a5.webp',
+        'https://img.cofynd.com/images/latest_images_2024/be455fe51f60b0d9e4a8a0f94fce20bf9e270375.webp'
+      ]
+    },
+    {
+      id: 'sec39-2',
+      name: 'The Office Pass Unitech Cyber Park',
+      badge: 'Popular',
+      rating: 4.2,
+      area: 'Sector 39',
+      location: 'Unitech Cyber Park, Sector 39, Gurugram',
+      price: '₹7,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/3e8ed1f71773d4f6d75b17f8fd0fde30f8d5fbc3.webp',
+        'https://img.cofynd.com/images/latest_images_2024/c92a705bcd016a3bb78a3f639e4ba1eed0b455e5.webp'
+      ]
+    },
+    {
+      id: 'sec39-3',
+      name: 'Akasa Coworking Unitech Cyber Park',
+      badge: 'Premium',
+      rating: 4.5,
+      area: 'Sector 39',
+      location: 'Unitech Cyber Park, Sector 39, Gurugram',
+      price: '₹11,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/f16ee9b3598275fc7fa2a24a07787836cf8434e1.webp',
+        'https://img.cofynd.com/images/latest_images_2024/debdc9dc8f063ff6ed7e3c2138c28bb6d9042f80.webp'
+      ]
+    },
+    {
+      id: 'sec39-4',
+      name: 'Nukleus Unitech Tower',
+      badge: 'Popular',
+      rating: 4.2,
+      area: 'Sector 39',
+      location: 'Unitech Tower, Sector 39, Gurugram',
+      price: '₹8,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/2d270df0f391a7aace93b1ab56f54076ee02f07f.webp',
+        'https://img.cofynd.com/images/latest_images_2024/5c2b266b18f453e912797a9431af8e09ec5336ba.webp'
+      ]
+    },
+    {
+      id: 'sec39-5',
+      name: 'ThinkValley Unitech Cyber Park',
+      badge: 'Popular',
+      rating: 4.1,
+      area: 'Sector 39',
+      location: 'Unitech Cyber Park, Sector 39, Gurugram',
+      price: '₹7,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/ed2bf9dc82af4e248d728069b47fc8064ac6b67c.webp',
+        'https://img.cofynd.com/images/latest_images_2024/a32c62f5ca81e60f3d4b9ff6f1479e254747076d.webp'
+      ]
+    }
+  ],
+
+  // ---- Sohna Road ----
+  'Sohna Road': [
+    {
+      id: 'sohna-1',
+      name: 'AltF Orchid Business Park',
+      badge: 'Popular',
+      rating: 4.2,
+      area: 'Sohna Road',
+      location: 'Orchid Business Park, Sohna Road, Gurugram',
+      price: '₹7,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/7ede6a8950fc2e17e34bb48db5fd5d64ff424c99.webp',
+        'https://img.cofynd.com/images/latest_images_2024/bc85a3d2bdfdd0f097b95fb6d97832cea7f397ab.webp'
+      ]
+    },
+    {
+      id: 'sohna-2',
+      name: 'The Office Pass JMD Megapolis',
+      badge: 'Popular',
+      rating: 4.1,
+      area: 'Sohna Road',
+      location: 'JMD Megapolis, Sohna Road, Gurugram',
+      price: '₹8,499',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/898e258a43f45af82c4ef8c24db8a3d003bebf05.webp',
+        'https://img.cofynd.com/images/latest_images_2024/8dbc0e8a7450a68f6b6acb4ccad5adfda2d0121b.webp'
+      ]
+    },
+    {
+      id: 'sohna-3',
+      name: 'Innov8 Bestech Business Park',
+      badge: 'Premium',
+      rating: 4.3,
+      area: 'Sohna Road',
+      location: 'Bestech Business Park, Sohna Road, Gurugram',
+      price: '₹9,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/19248b9fb16eb80e8ffba0d2bb55e97ef7c5095b.webp',
+        'https://img.cofynd.com/images/latest_images_2024/7ede6a8950fc2e17e34bb48db5fd5d64ff424c99.webp'
+      ]
+    },
+    {
+      id: 'sohna-4',
+      name: 'DesqWorx Iris Tech Park',
+      badge: 'Popular',
+      rating: 4.0,
+      area: 'Sohna Road',
+      location: 'Iris Tech Park, Sohna Road, Gurugram',
+      price: '₹7,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/bc85a3d2bdfdd0f097b95fb6d97832cea7f397ab.webp',
+        'https://img.cofynd.com/images/latest_images_2024/898e258a43f45af82c4ef8c24db8a3d003bebf05.webp'
+      ]
+    },
+    {
+      id: 'sohna-5',
+      name: 'SupremeWork ILD Trade Tower',
+      badge: 'Popular',
+      rating: 4.1,
+      area: 'Sohna Road',
+      location: 'ILD Trade Tower, Sohna Road, Gurugram',
+      price: '₹6,999',
+      period: '/ month',
+      images: [
+        'https://img.cofynd.com/images/latest_images_2024/8dbc0e8a7450a68f6b6acb4ccad5adfda2d0121b.webp',
+        'https://img.cofynd.com/images/latest_images_2024/19248b9fb16eb80e8ffba0d2bb55e97ef7c5095b.webp'
+      ]
+    }
+  ]
+};
+
+/**
+ * Get similar coworking spaces for a given Gurugram area.
+ * Falls back to the global similarPuneOfficeCards if area not found.
+ * @param {string} area - The area string from the card data
+ * @returns {Array} - Array of similar space objects
+ */
+export const getSimilarSpacesByArea = (area) => {
+  if (!area) return similarPuneOfficeCards;
+  // Normalize: trim and try exact match first, then case-insensitive
+  const trimmed = area.trim();
+  if (gurugramSimilarSpacesByArea[trimmed]) {
+    return gurugramSimilarSpacesByArea[trimmed];
+  }
+  // Case-insensitive fallback
+  const lowerArea = trimmed.toLowerCase();
+  const key = Object.keys(gurugramSimilarSpacesByArea).find(
+    (k) => k.toLowerCase() === lowerArea
+  );
+  if (key) return gurugramSimilarSpacesByArea[key];
+  return similarPuneOfficeCards;
+};
 

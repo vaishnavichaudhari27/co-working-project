@@ -1,14 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { getPuneOfficeCardById, similarPuneOfficeCards, topPuneCoworkingLocations } from './gurugramData.js';
+import { getPuneOfficeCardById, topPuneCoworkingLocations, getSimilarSpacesByArea } from './gurugramData.js';
 
-// Pre-looped array (4 copies) for infinite, seamless continuous scrolling
-const loopedSimilarOfficeCards = [
-  ...similarPuneOfficeCards,
-  ...similarPuneOfficeCards,
-  ...similarPuneOfficeCards,
-  ...similarPuneOfficeCards
-];
 
 /**
  * Coworking Office Details Page for Gurugram
@@ -71,7 +64,7 @@ const OfficeDetail = () => {
     }
   };
 
-  // Continuous auto-movement animation effect
+  // Continuous auto-movement animation effect — re-runs when space/area changes
   useEffect(() => {
     const slider = similarSliderRef.current;
     if (!slider) return;
@@ -106,7 +99,7 @@ const OfficeDetail = () => {
       cancelAnimationFrame(animId);
       if (pauseTimerRef.current) clearTimeout(pauseTimerRef.current);
     };
-  }, []);
+  }, [space]);
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -114,6 +107,15 @@ const OfficeDetail = () => {
   }, [id]);
 
   const images = space?.images || [];
+
+  // Dynamic similar spaces: 4 copies of area-specific cards for infinite scroll loop
+  const areaSimilarCards = getSimilarSpacesByArea(space?.area);
+  const loopedSimilarOfficeCards = [
+    ...areaSimilarCards,
+    ...areaSimilarCards,
+    ...areaSimilarCards,
+    ...areaSimilarCards
+  ];
 
   const openCarousel = (index = 0) => {
     setActiveImageIndex(index);
@@ -926,7 +928,7 @@ const OfficeDetail = () => {
               Premium Coworking
             </span>
             <h3 className="text-base sm:text-lg font-bold text-slate-900 mt-3 tracking-tight">
-              More Spaces by {space.name.split(' ')[0] || 'Awfis'}
+             Similar Coworking Spaces in {space.area || space.location?.split(',')[0] || 'Gurugram'}
             </h3>
           </div>
 

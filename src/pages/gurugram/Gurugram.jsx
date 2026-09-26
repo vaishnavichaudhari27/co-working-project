@@ -327,10 +327,10 @@ const Gurugram = () => {
           </li>
           <li aria-hidden="true">/</li>
           <li>
-            <Link to="/coworking/pune" className="hover:text-blue-600 transition-colors">Coworking</Link>
+            <Link to="/coworking/gurugram" className="hover:text-blue-600 transition-colors">Coworking</Link>
           </li>
           <li aria-hidden="true">/</li>
-          <li className="text-slate-800 font-medium" aria-current="page">Gurgram</li>
+          <li className="text-slate-800 font-medium" aria-current="page">Gurugram</li>
           <li aria-hidden="true">/</li>
         </ol>
       </nav>
@@ -420,7 +420,7 @@ const Gurugram = () => {
               }}
               className="mt-2 text-xs text-blue-600 underline cursor-pointer"
             >
-              Show all Pune spaces
+              Show all Gurugram spaces
             </button>
           </div>
         ) : (
