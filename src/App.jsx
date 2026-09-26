@@ -11,6 +11,7 @@ import CoimbatorePage from './pages/coimbatore/Coimbatore';
 import DelhiPage from './pages/delhi/Delhi';
 import GoaPage from './pages/goa/Goa';
 import GurugramPage from './pages/gurugram/Gurugram';
+import GurugramOfficeDetail from './pages/gurugram/OfficeDetail';
 import HyderabadPage from './pages/hyderabad/Hyderabad';
 import IndorePage from './pages/indore/Indore';
 import JaipurPage from './pages/jaipur/Jaipur';
@@ -37,6 +38,7 @@ const App = () => {
         <Route path="/coworking/delhi" element={<DelhiPage />} />
         <Route path="/coworking/goa" element={<GoaPage />} />
         <Route path="/coworking/gurugram" element={<GurugramPage />} />
+        <Route path="/coworking/gurugram/:id" element={<GurugramOfficeDetail />} />
         <Route path="/coworking/hyderabad" element={<HyderabadPage />} />
         <Route path="/coworking/indore" element={<IndorePage />} />
         <Route path="/coworking/jaipur" element={<JaipurPage />} />
