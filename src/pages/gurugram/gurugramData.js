@@ -5868,8 +5868,13 @@ export const allPuneOfficeCards = [
  * @returns {object|null}
  */
 export const getPuneOfficeCardById = (id) => {
-  const numericId = Number(id);
-  return allPuneOfficeCards.find((card) => card.id === numericId) || null;
+  const normalizedId = String(id);
+  const listedOffice = allPuneOfficeCards.find((card) => String(card.id) === normalizedId);
+  if (listedOffice) return listedOffice;
+
+  return Object.values(gurugramSimilarSpacesByArea)
+    .flat()
+    .find((card) => String(card.id) === normalizedId) || null;
 };
 
 // ============================================================================
