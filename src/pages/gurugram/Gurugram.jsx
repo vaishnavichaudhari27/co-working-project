@@ -1,26 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { puneNeighborhoods,
-   puneOfficeCards,
-   morePuneOfficeCards,
-   finalPuneOfficeCards, 
-   featuredPuneOfficeCards,
-    pageTwoPuneOfficeCards, 
-    pageTwoMorePuneOfficeCards, 
-    pageTwoFinalPuneOfficeCards, 
-    pageTwoFeaturedPuneOfficeCards, 
-    officeSolutions, 
-    perfectWorkspaceBanner, 
-    customizedOfficeBanner, 
-    stillNotFindingBanner, 
-    paginationData,
-    pageThreePuneOfficeCards,
-    pageThreeMorePuneOfficeCards,
-    pageThreeFinalPuneOfficeCards,
-    pageThreeFeaturedPuneOfficeCards,
-    pageFourPuneOfficeCards,
-    topPuneCoworkingLocations,
-    areaExtraOfficeCards
+   
 
    } from './gurugramData.js';
 
