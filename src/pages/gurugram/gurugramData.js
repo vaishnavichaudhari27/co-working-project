@@ -10,10 +10,10 @@ export const puneNeighborhoods = [
   'MG Road Gurugram',
   'Golf Course Road',
   'DLF Cyber City',
-  'Unitech Cyber Parki',
+  'Unitech Cyber Park',
   'Cyber Hub',
   'Golf Course Extension Road',
-  'Cybar City',
+  'Cyber City',
   'Huda City Centre',
   'Sector 18',
   'Sector 29',
@@ -26,7 +26,7 @@ export const puneNeighborhoods = [
   'DLF Phase 4',
   'Sector 67',
   'NH 8',
-  'Dif Phase 3',
+  'DLF Phase 3',
   'Iffco Chowk',
   'Ambience Mall'
 ];
@@ -376,153 +376,154 @@ export const perfectWorkspaceBanner = {
 export const finalPuneOfficeCards = [
   {
     id: 17,
-    name: 'IndiQube Park Plaza',
+    name: 'Innov8 CLC',
     badge: 'Popular',
     rating: 4.1,
-    area: 'Shivaji Nagar',
-    location: 'Shivaji Nagar, Pune',
-    price: '₹7,999',
+    area: 'Sector 44',
+    location: 'Sector 44, Gurgaon',
+    price: '₹6,999',
     period: '/ month',
-    priceFormatted: '₹7,999 / month',
+    priceFormatted: '₹6,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/latest_images_2024/f9281528475c492bf1ed563de855b052d4bd7209.webp',
-      'https://img.cofynd.com/images/original/66e97384b3e8fff86453c74021b59ee823bed78a.jpg',
-      'https://img.cofynd.com/images/latest_images_2024/31fd493b5fab163f9a2d8bddeedf1a1e17a1d885.webp',
-      'https://img.cofynd.com/images/latest_images_2024/448660eb3e7510de6808dfa2128570e3bc29b381.webp',
-      'https://img.cofynd.com/images/latest_images_2024/bbfe22c34e2dfa71e940a05190c8e8ded20db2e6.webp'
+      'https://img.cofynd.com/images/latest_images_2024/e65260eadd93e5ef22aa59594f82eb6789f3cb94.webp',
+      'https://img.cofynd.com/images/latest_images_2024/057225e860cf6639fb6513d4955c6bfa9032c1bc.webp',
+      'https://img.cofynd.com/images/latest_images_2024/d101290546e566f6bfdc38e48936f6fa3a8b012d.webp',
+      'https://img.cofynd.com/images/latest_images_2024/81517afbf153c5dd52edeb130c295eb2ea56b193.webp',
+      'https://img.cofynd.com/images/latest_images_2024/1bc52c0b4b13b00e542fa4fe5c908cbcba258848.webp'
     ]
   },
   {
     id: 18,
-    name: 'Awfis GK Mall',
-    badge: 'Popular',
-    rating: 3.9,
-    area: 'Pimple Saudagar',
-    location: 'Pimple Saudagar, Pune',
-    price: '₹10,999',
+    name: 'The Executive Centre DLF Cyber City',
+    badge: 'Premium',
+    rating: 4.6,
+    area: 'DLF Cyber City',
+    location: 'DLF Cyber City, Gurgaon',
+    price: '₹14,999',
     period: '/ month',
-    priceFormatted: '₹10,999 / month',
+    priceFormatted: '₹14,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/original/7a47e648e2f8507f22b0bbe17ffba95c038ccc25.jpg',
-      'https://img.cofynd.com/images/original/1cbff71d3df1dc948c372fb25b209191a08e5b86.jpg',
-      'https://img.cofynd.com/images/latest_images_2024/9988de7ec9e649e7e9ccc0ecd20186d8dc62afd0.webp',
-      'https://img.cofynd.com/images/latest_images_2024/7cac68ecacd3f6a32407f74844adc4d5b797d1a1.webp',
-      'https://img.cofynd.com/images/original/4484d5dc0e0cc0ab0f9ba4d507d679e2ac72830a.jpg'
+      'https://img.cofynd.com/images/latest_images_2024/e28df29c04eb14362194a9d973a2af46ed7c368d.webp',
+      'https://img.cofynd.com/images/latest_images_2024/12576b561a678df5709eb8425cf16ef772b4ce03.webp',
+      'https://img.cofynd.com/images/latest_images_2024/d7ea260c4b119e9ae23024eace7fdeda66855cb6.webp',
+      'https://img.cofynd.com/images/latest_images_2024/b0214a3360652596789bc3f5b717e91c2fb87861.webp',
+      'https://img.cofynd.com/images/latest_images_2024/1bc75a651b310fe78756fa742ed227f3dde50b9a.webp'
     ]
   },
   {
     id: 19,
-    name: 'ScaleUp CoWork',
-    badge: null,
-    rating: null,
-    area: 'BMCC Road',
-    location: 'BMCC Road, Pune, Maharashtra',
-    price: '₹7,000',
+    name: 'The Office Pass Paras Downtown Center',
+    badge: 'Premium',
+    rating: 4.5,
+    area: 'Golf Course Road',
+    location: 'Golf Course Road, Gurgaon',
+    price: '₹13,999',
     period: '/ month',
-    priceFormatted: '₹7,000 / month',
+    priceFormatted: '₹13,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/original/f3301766c8ef599ab9fccf4e79d8ffb05607f8cb.jpg',
-      'https://img.cofynd.com/images/original/bf82d800a2cc9ddc0818624e1675bb69056ff64e.jpg',
-      'https://img.cofynd.com/images/original/f809998409e326eec1589237d62fec35a0f5bff5.jpg',
-      'https://img.cofynd.com/images/original/f2c386881e1c1ffb15fec004a116835ec12d7e03.jpg',
-      'https://img.cofynd.com/images/original/67db7677286bc5d9920525e826712bc117d9fd36.jpg'
+      'https://img.cofynd.com/images/latest_images_2024/afa18c7ee3d0fecde9684c54b0ff558f943177d1.webp',
+      'https://img.cofynd.com/images/latest_images_2024/757f03ac25e93adffeb12e46b012ecf191a43695.webp',
+      'https://img.cofynd.com/images/latest_images_2024/94d71a28ac746a54384fefe1336cf48c5986ed43.webp',
+      'https://img.cofynd.com/images/latest_images_2024/4b0957258037f08518dca41e408d915490c3f244.webp',
+      'https://img.cofynd.com/images/latest_images_2024/473acb7fcc2dfd09e12d1ffaf8a26928d5e78249.webp'
     ]
   },
   {
     id: 20,
-    name: 'Excella Coworking Space - DS Ikon',
-    badge: null,
-    rating: null,
-    area: 'Baner',
-    location: 'DS IKON 4th Floor, Pune',
-    price: '₹8,000',
+    name: 'The Executive Center Two Horizon Center',
+    badge: 'Premium',
+    rating: 4.7,
+    area: 'Golf Course Road',
+    location: 'Golf Course Road, Gurgaon',
+    price: '₹44,999',
     period: '/ month',
-    priceFormatted: '₹8,000 / month',
+    priceFormatted: '₹44,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/original/65f1543b7fb401b76756dfbe5269035c952a8dc0.jpg',
-      'https://img.cofynd.com/images/original/3776ddb85db9ac28c248b10c2e2237310889a9b0.jpg',
-      'https://img.cofynd.com/images/original/f65a5b41aa00174147fd42068bfb500eca17bba7.jpg',
-      'https://img.cofynd.com/images/original/f3bce1f518470efc471ddf30b4e8342c03601b4b.jpg',
-      'https://img.cofynd.com/images/original/0a48c90eb5599f802649137a5dad227be87a27ca.jpg'
+      'https://img.cofynd.com/images/latest_images_2024/9ff66841bc37049f1dd4ec05851cb213503f05a3.webp',
+      'https://img.cofynd.com/images/latest_images_2024/5d27f3db73c64bcb31f9541854ad159477f69489.webp',
+      'https://img.cofynd.com/images/latest_images_2024/980e1e384f78c1784a2c02426aacad99f0f6ab91.webp',
+      'https://img.cofynd.com/images/latest_images_2024/888116205f0a21d5c2bb27727f2ab13877133318.webp',
+      'https://img.cofynd.com/images/latest_images_2024/a73643804c6b9a63c9de9f5d4c7640d66696b9a0.webp'
     ]
   },
   {
     id: 21,
-    name: 'Aster',
-    badge: 'Popular',
-    rating: 4.7,
-    area: 'Shivaji Nagar',
-    location: 'Shivaji Nagar, Pune',
-    price: '₹9,999',
+    name: 'Innov8 Unitech Cyber Park',
+    badge: 'Premium',
+    rating: 5.0,
+    area: 'Unitech Cyber Park',
+    location: 'Unitech Cyber Park, Gurgaon',
+    price: '₹11,499',
     period: '/ month',
-    priceFormatted: '₹9,999 / month',
+    priceFormatted: '₹11,499 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/latest_images_2024/305b6bd07971b47555e2b79b65cae51810a9bf43.webp',
-      'https://img.cofynd.com/images/latest_images_2024/981f5da85f450667c290067fdb7cc47658012289.webp',
-      'https://img.cofynd.com/images/latest_images_2024/108e44d3d4995d298f0079d63cb29506636e32cd.webp',
-      'https://img.cofynd.com/images/latest_images_2024/5a0c5088f1a3fcd2e21f0b4f8e474bb596ed415b.webp',
-      'https://img.cofynd.com/images/latest_images_2024/643d8a9679b0672534f839ba039c9bf127eb0296.webp'
+      'https://img.cofynd.com/images/latest_images_2024/d4a3ce6d67438135cfdf69f36027e385a22873e6.webp',
+      'https://img.cofynd.com/images/latest_images_2024/8f4e7e020f1ce549ada68a8b4a4d1830525f6d8e.webp',
+      'https://img.cofynd.com/images/latest_images_2024/54e753d27befd731712660b19b88c07799c6dfc0.webp',
+      'https://img.cofynd.com/images/latest_images_2024/998bea022a790d3ee873380a6182f207eadcacdc.webp',
+      'https://img.cofynd.com/images/latest_images_2024/83915e30b8ee4025bed7bed66e3cd2f4c4aee0c5.webp'
     ]
   },
   {
     id: 22,
-    name: 'tstart Coworking – VCC Vantage 9',
-    badge: 'Premium',
-    rating: 4.8,
-    area: 'Baner',
-    location: 'Baner, Pune',
-    price: '₹8,999',
+    name: 'Smartworks RK Four Square',
+    badge: 'Popular',
+    rating: 4.0,
+    area: 'DLF Cyber City',
+    location: 'DLF Cyber City, Gurgaon',
+    price: '₹19,999',
     period: '/ month',
-    priceFormatted: '₹8,999 / month',
+    priceFormatted: '₹19,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/original/dd4bdde3ebc28ab3f5905b5b13070c336e9c1dd8.jpg',
-      'https://img.cofynd.com/images/original/4190c14d6af9851f7f075e8c1b0471b19944fdbf.jpg',
-      'https://img.cofynd.com/images/original/5dea17870f98868bd17efb71775486f400b0c615.jpg',
-      'https://img.cofynd.com/images/original/76201988713064871eb760f94795215843ea33d9.jpg',
-      'https://img.cofynd.com/images/original/a3a34bbdddeba830b2202bbc3dec4de594c6e68f.jpg'
+      'https://img.cofynd.com/images/latest_images_2024/b278992c7b3914a68f73d290edac2593b691f735.webp',
+      'https://img.cofynd.com/images/latest_images_2024/12d137181be5e575acc4a843c7bde501e4175581.webp',
+      'https://img.cofynd.com/images/latest_images_2024/349ebb14d662bc20fab1d7537dbca1ea1ebbebc6.webp',
+      'https://img.cofynd.com/images/latest_images_2024/7d73806e1753c8bd0b3c564d6f67c840087a166a.webp',
+      'https://img.cofynd.com/images/latest_images_2024/d0f55ba2bc6a5d96c23109f8d002230e07b713b6.webp'
     ]
   },
   {
     id: 23,
-    name: 'Bootstart - Omicron Commerz',
-    badge: 'Special Offer',
-    rating: 5.0,
-    area: 'Koregaon Park',
-    location: 'Koregaon Park, Pune',
-    price: '₹7,999',
+    name: 'The Executive Center DLF Cyber Park',
+    badge: 'Premium',
+    rating: 4.6,
+    area: 'DLF Cyber City',
+    location: 'DLF Cyber City, Gurgaon',
+    price: '₹59,999',
     period: '/ month',
-    priceFormatted: '₹7,999 / month',
+    priceFormatted: '₹59,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/latest_images_2024/20da51b29df772b7e8f6739076112d855b0894f7.webp',
-      'https://img.cofynd.com/images/latest_images_2024/5ab639e6b372917886889378c99795b4e4b7d357.webp',
-      'https://img.cofynd.com/images/latest_images_2024/a56c458480e9e7948160cb4b5a75cc749972128f.webp',
-      'https://img.cofynd.com/images/latest_images_2024/17a121e8dc76faa48ed1587bd39c83bae85918d2.webp'
+      'https://img.cofynd.com/images/latest_images_2024/f349d8502f7586afcce2811f12c7cf47f2ef2baf.webp',
+      'https://img.cofynd.com/images/original/d1b990ac61ba58de3868e4e3117a62efb48ae2c3.jpg',
+      'https://img.cofynd.com/images/original/912195f066a66b74f56556156079e6a5be214482.jpg',
+      'https://img.cofynd.com/images/original/a494a8f8c161b9c42cc5ff8c95986d70e6e33ce1.jpg',
+      'https://img.cofynd.com/images/original/ad3e47ecac9feebf935c81756b2c2316f2ce7714.jpg'
     ]
   },
   {
     id: 24,
-    name: 'Synergy',
-    badge: null,
-    rating: null,
-    area: 'Viman Nagar',
-    location: 'Viman Nagar, Pune',
-    price: '₹7,500',
+    name: 'The Office Pass Operation Control Center',
+    badge: 'Premium',
+    rating: 4.5,
+    area: 'DLF Cyber City',
+    location: 'DLF Cyber City, Gurgaon',
+    price: '₹11,999',
     period: '/ month',
-    priceFormatted: '₹7,500 / month',
+    priceFormatted: '₹11,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/original/d558ecaab78df13a1cbd058f1d63fff078c1e0c4.jpg',
-      'https://img.cofynd.com/images/original/115e0f16773a44862496a139117d820d2f21cc4b.jpg',
-      'https://img.cofynd.com/images/original/a16076bde799ff70cfb9ed44994bdb31626f1850.jpg',
-      'https://img.cofynd.com/images/original/2d4abb4e94c65c4e157d5aa6bb6daa90026ea21c.jpg',
-      'https://img.cofynd.com/images/original/f3d377dd0ca6e06dbaaa305f055f543ac8e15bf5.jpg'
+      'https://img.cofynd.com/small/images/original/7f11c58e38c7fe343f6dfb301f36c8a428fb954b.webp',
+      'https://img.cofynd.com/small/images/original/6e515577a1d506a17c07be4299105476c88a7287.webp',
+      'https://img.cofynd.com/small/images/original/117ec383b617f0622db6c54679da80c0105487f7.webp',
+      'https://img.cofynd.com/small/images/original/eb4aa50652a34bb24ba16368fff7f37ead469994.webp',
+      'https://img.cofynd.com/small/images/original/18f6b59cb5f91d0ae4eb3598de16f9ecdc44b996.webp'
     ]
   }
 ];
@@ -530,153 +531,154 @@ export const finalPuneOfficeCards = [
 export const featuredPuneOfficeCards = [
   {
     id: 25,
-    name: 'Bootstart Coworking - Pride Icon',
+    name: 'CoWrks Cyber City',
     badge: 'Popular',
-    rating: 4.8,
-    area: 'Kharadi',
-    location: 'Kharadi, Pune',
-    price: '₹8,499',
+    rating: 4.7,
+    area: 'DLF Cyber City',
+    location: 'DLF Cyber City, Gurgaon',
+    price: '₹19,999',
     period: '/ month',
-    priceFormatted: '₹8,499 / month',
+    priceFormatted: '₹19,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/latest_images_2024/5d6bdce911d2d6d29a01d2a56ae7551421f5fb25.webp',
-      'https://img.cofynd.com/images/latest_images_2024/424d2d95b9d69f017cfd31a532f01b6b67b376ee.webp',
-      'https://img.cofynd.com/images/latest_images_2024/7a3d410415516b1f5c82f9347b1bd0b56304e59e.webp',
-      'https://img.cofynd.com/images/latest_images_2024/dffa9636309a5bd2d9414d44759c37d0a286e88e.webp',
-      'https://img.cofynd.com/images/original/dedd21b7ac35de0f9975a8f9039b13b3f34b4668.jpg'
+      'https://img.cofynd.com/images/latest_images_2024/27afa01158ac6029c52771e8b091d8ca41604f00.webp',
+      'https://img.cofynd.com/images/latest_images_2024/a7e437c8993aeb315b4f314ab5e588b335c8fed5.webp',
+      'https://img.cofynd.com/images/latest_images_2024/c3b88442ea185f84426c910de6c559675ad23c81.webp',
+      'https://img.cofynd.com/images/latest_images_2024/eaaf7593d75f9c7277cf7e765b18fc725081c3c0.webp',
+      'https://img.cofynd.com/images/latest_images_2024/61c8623c4986009ea01fc858dda15a51baef1bb2.webp'
     ]
   },
   {
     id: 26,
-    name: 'Thinkcowork',
-    badge: 'Popular',
-    rating: null,
-    area: 'Aundh',
-    location: 'Aundh, Pune',
-    price: '₹6,999',
+    name: 'Smartworks Golf View Towers',
+    badge: 'Near Metro',
+    rating: 3.3,
+    area: 'Golf Course Road',
+    location: 'Golf Course Road, Gurgaon',
+    price: '₹12,999',
     period: '/ month',
-    priceFormatted: '₹6,999 / month',
+    priceFormatted: '₹12,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/original/0b7358b353d6a791efd3be1458c65b9c123bc641.jpg',
-      'https://img.cofynd.com/images/original/01fc341f79200ba49965dd140205cca5798c1aea.jpg',
-      'https://img.cofynd.com/images/original/ae0ec2ce28d53b932e1675a714f223a5618ce066.jpg',
-      'https://img.cofynd.com/images/original/f3726d882d9ec8e0bb3b4ea968ad922015e9d4dc.jpg',
-      'https://img.cofynd.com/images/original/8aedd18ca1ff6255b53489882f554edc5130222f.jpg'
+      'https://img.cofynd.com/images/latest_images_2024/2b9b4f717b3bf058a0f98276ae331087adbcb4d7.webp',
+      'https://img.cofynd.com/images/original/886ddef88ba2818f9d669bfde6f0086a9edb3199.jpg',
+      'https://img.cofynd.com/images/latest_images_2024/781c9542534087c84d4be0b1ddb986e7c41b76eb.webp',
+      'https://img.cofynd.com/images/latest_images_2024/a89c87a0fb24028e2404155dfce10d102113b2a2.webp',
+      'https://img.cofynd.com/images/original/475b4b5ecc2f03baf8973403555fb8167ca0c4fb.jpg'
     ]
   },
   {
     id: 27,
-    name: 'The Cultiv8',
-    badge: 'Popular',
-    rating: 4.9,
-    area: 'Baner',
-    location: 'Baner, Pune',
-    price: '₹5,499',
+    name: 'Innov8 Orchid Center',
+    badge: 'Premium',
+    rating: 4.3,
+    area: 'Golf Course Road',
+    location: 'Golf Course Road, Gurgaon',
+    price: '₹11,999',
     period: '/ month',
-    priceFormatted: '₹5,499 / month',
+    priceFormatted: '₹11,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/original/3a09b79b0dcbb5f7958d9470187c8a27ffdf17ad.jpg',
-      'https://img.cofynd.com/images/original/3b31cf2e8881b77e0d2ef66283cb0775fa123281.jpg',
-      'https://img.cofynd.com/images/original/fbf926341143fd97b0df29962e5a54a47dbcf8f8.jpg',
-      'https://img.cofynd.com/images/original/15db7af84400b986b0cd043befb3d6c79295f50c.jpg',
-      'https://img.cofynd.com/images/original/0bb076ef96db49479c8e9b67897f50922e88c90e.jpg'
+      'https://img.cofynd.com/images/latest_images_2024/48b8a4939c5c6ebc6dc96984b211866e429f209e.webp',
+      'https://img.cofynd.com/images/latest_images_2024/1974d92e38ffc35c27eae6636bd93d734d7c30f2.webp',
+      'https://img.cofynd.com/images/latest_images_2024/12d3701c1332bde0a94858ca983e090e8bdb53ee.webp',
+      'https://img.cofynd.com/images/latest_images_2024/fd4065bfaa3634f0db05903ff3e1d3c196ffa3d2.webp',
+      'https://img.cofynd.com/images/latest_images_2024/795cefeb729f100a1edda76fc75ad0f57fd60d5f.webp'
     ]
   },
   {
     id: 28,
-    name: 'Bootstart Coworking – Shreyas Eterna',
-    badge: 'Premium',
-    rating: 5.0,
-    area: 'Bavdhan',
-    location: 'Bavdhan, Pune',
-    price: '₹6,500',
+    name: 'Smartworks ASF Insignia',
+    badge: 'Popular',
+    rating: 4.1,
+    area: 'Vatsal Valley',
+    location: 'Vatsal Valley, Gurgaon',
+    price: '₹14,999',
     period: '/ month',
-    priceFormatted: '₹6,500 / month',
+    priceFormatted: '₹14,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/latest_images_2024/5176199e84c881a6da33330f0648e84ee0c8263b.webp',
-      'https://img.cofynd.com/images/latest_images_2024/ba1da479c668bcde77de2e6da807cc5bfc0c6fdf.webp',
-      'https://img.cofynd.com/images/latest_images_2024/d05ac68e752d48d18a9548d8cb836b81fd95c18a.webp',
-      'https://img.cofynd.com/images/latest_images_2024/42e061a664661b8837b419f2e31407d72d806e20.webp'
+      'https://img.cofynd.com/images/latest_images_2024/d7b318081870cc873302a1bee8116a612c9b040a.webp',
+      'https://img.cofynd.com/images/latest_images_2024/4da8d07f0078e2455e88c07f60b6ec5bf1d1861d.webp',
+      'https://img.cofynd.com/images/latest_images_2024/4b6362bb065847cd387c06c0b07000390c986a3c.webp',
+      'https://img.cofynd.com/images/latest_images_2024/21acfec01f54fc86b423613d120ee6015f3ca9f0.webp',
+      'https://img.cofynd.com/images/latest_images_2024/01ccbd47c12045343fafe2426f786b79d0b605d8.webp'
     ]
   },
   {
     id: 29,
-    name: 'ANA Workspace',
-    badge: 'Popular',
-    rating: null,
-    area: 'Pimpri Chinchwad',
-    location: 'Chinchwad, Pune',
-    price: '₹5,999',
+    name: 'IndiQube Vatika',
+    badge: 'Premium',
+    rating: 4.8,
+    area: 'Golf Course Road',
+    location: 'Golf Course Road, Gurgaon',
+    price: '₹14,999',
     period: '/ month',
-    priceFormatted: '₹5,999 / month',
+    priceFormatted: '₹14,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/original/5f7324a00fd749c9b0ad758d47edfd5d580def38.jpg',
-      'https://img.cofynd.com/images/original/adb1c372b80aa8d599d393a466d06e2c45f907c4.jpg',
-      'https://img.cofynd.com/images/original/86890c758fbfc951a1e54e0fe403f14ec6c9e0f4.jpg',
-      'https://img.cofynd.com/images/original/7f5741db7a68d8fdea858bda92cba9cd37b89814.jpg',
-      'https://img.cofynd.com/images/original/83fdd16c008a520c82723ad290e25631b81c686f.jpg'
+      'https://img.cofynd.com/images/latest_images_2024/a51cfb0a9c479b3993ad7f8b19ac76d76c05c9ac.webp',
+      'https://img.cofynd.com/images/latest_images_2024/686cd3ebd630102fa298d59cf37764764a8b3eb5.webp',
+      'https://img.cofynd.com/images/latest_images_2024/9c4af04d94a643170c393b0e904a0b9a934d50b2.webp',
+      'https://img.cofynd.com/images/latest_images_2024/d11a2cfce942dfb24b5e54652175f8eda0b94f4d.webp',
+      'https://img.cofynd.com/images/latest_images_2024/291207713c4b09fae71ac9df8c6294d4760be88e.webp'
     ]
   },
   {
     id: 30,
-    name: 'Anchor Coworking',
-    badge: null,
-    rating: null,
-    area: 'Baner',
-    location: 'Shivneri Colony, Pune',
-    price: '₹5,000',
+    name: 'The Office Pass JMD Megapolis',
+    badge: 'Premium',
+    rating: 4.8,
+    area: 'Sohna Road',
+    location: 'Sohna Road, Gurgaon',
+    price: '₹6,499',
     period: '/ month',
-    priceFormatted: '₹5,000 / month',
+    priceFormatted: '₹6,499 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/original/14dc3097883d00ded75870b6f23b60d047248ea3.jpg',
-      'https://img.cofynd.com/images/original/7d991afab856ff7600aec026003965109021e1b8.jpg',
-      'https://img.cofynd.com/images/original/640b02753a521ca316019b6fb8bf473565b0edd0.jpg',
-      'https://img.cofynd.com/images/original/67761bee47530b701654a4abe1c58a451a279c4c.jpg',
-      'https://img.cofynd.com/images/original/856d9d73fc023c1c3eeab089f859b4ff0e56bc1e.jpg'
+      'https://img.cofynd.com/images/latest_images_2024/5bcdd7f5300be3501e740dcf3647ce0a244a1f5d.webp',
+      'https://img.cofynd.com/images/latest_images_2024/b2e8d6515598b4214d7e60b9f319e9acbde62110.webp',
+      'https://img.cofynd.com/images/latest_images_2024/b495c15a2f0fbf3bb02da39d05d0bd37de0d1402.webp',
+      'https://img.cofynd.com/images/latest_images_2024/8cfb554832172a3238308dea729780d0d5a8ecb2.webp',
+      'https://img.cofynd.com/images/latest_images_2024/576efc7390b71ff698320c929bd5e695a02a44d2.webp'
     ]
   },
   {
     id: 31,
-    name: 'TRIOS Mont Vert Spectra',
-    badge: 'People Choice',
-    rating: 4.6,
-    area: 'Baner',
-    location: 'Baner, Pune',
-    price: '₹9,200',
+    name: 'IndiQube Unitech Cyber Park',
+    badge: 'Popular',
+    rating: 4.1,
+    area: 'Unitech Cyber Park',
+    location: 'Unitech Cyber Park, Gurgaon',
+    price: '₹14,999',
     period: '/ month',
-    priceFormatted: '₹9,200 / month',
+    priceFormatted: '₹14,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/latest_images_2024/1387d618963b6741df60c64483297d764204863d.webp',
-      'https://img.cofynd.com/images/latest_images_2024/b976eea70a1337cf50658510554f881856d8aa63.webp',
-      'https://img.cofynd.com/images/latest_images_2024/54cb1bf58553dedf6708c2e5e0f917b5d00b1c17.webp',
-      'https://img.cofynd.com/images/latest_images_2024/2e17cf37176194d28f07db5eae5d0c71cb1db5de.webp',
-      'https://img.cofynd.com/images/latest_images_2024/9c30a88110350adef969d872838b15c625b2dc90.webp'
+      'https://img.cofynd.com/images/latest_images_2024/f5ce787b6cfe0de8a31cb71a7cf6be0fe98aa09b.webp',
+      'https://img.cofynd.com/images/latest_images_2024/9fdeae657363036a61dab74afdaabb6c2f62f886.webp',
+      'https://img.cofynd.com/images/latest_images_2024/26868fbf898209862b7b1522bbf4bb3895d21c39.webp',
+      'https://img.cofynd.com/images/latest_images_2024/400ea50194f8f297e0f58b3a3eeb5359ed307611.webp',
+      'https://img.cofynd.com/images/latest_images_2024/ac13ca1d0456e7481ed244c1d68a5950689fd0c0.webp'
     ]
   },
   {
     id: 32,
-    name: 'Workspace',
+    name: 'VentureX Silverton Tower',
     badge: 'Popular',
-    rating: 4.7,
-    area: 'Viman Nagar',
-    location: 'Viman Nagar, Pune',
-    price: '₹22,499',
+    rating: 4.3,
+    area: 'Golf Course Extension Road',
+    location: 'Golf Course Extension Road, Gurgaon',
+    price: '₹9,999',
     period: '/ month',
-    priceFormatted: '₹22,499 / month',
+    priceFormatted: '₹9,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/latest_images_2024/94520e6c657a26032275bae6ec5ecb28c2ec3645.webp',
-      'https://img.cofynd.com/images/latest_images_2024/8fb511efff6c4ac3e675feb33da2fed7bab8fea8.webp',
-      'https://img.cofynd.com/images/latest_images_2024/b3b4f02542246091ec686e628f183388997ace01.webp',
-      'https://img.cofynd.com/images/latest_images_2024/800f8563e454a64cd599567bfa7718b836dd7765.webp',
-      'https://img.cofynd.com/images/latest_images_2024/be8dd586067e9fad71f14f885311a3df59edcdd3.webp'
+      'https://img.cofynd.com/images/latest_images_2024/15f7425bf79fbb10fe03415e3112e693a58b5e9a.webp',
+      'https://img.cofynd.com/images/latest_images_2024/2cfb8011fedabb9d6a8f5fb9ca4e3248fb9ab1c7.webp',
+      'https://img.cofynd.com/images/latest_images_2024/44c4abc0f37f2d1b696302faf5409ef49536c2a0.webp',
+      'https://img.cofynd.com/images/latest_images_2024/3471b5052af33417437756a1fcfeb64de7706552.webp',
+      'https://img.cofynd.com/images/latest_images_2024/15f7425bf79fbb10fe03415e3112e693a58b5e9a.webp'
     ]
   }
 ];
@@ -720,163 +722,164 @@ export const paginationData = {
 // Har card me real internet images, badge, rating, location aur price di gayi hai.
 // ============================================================================
 export const pageTwoPuneOfficeCards = [
-  // 1. Share A Space - Aundh, Pune
+  // 1. AltF Orchid Business Park - Sohna Road, Gurgaon
   {
     id: 33,
-    name: 'Share A Space',
-    badge: 'Popular', // Card ke upar 'Popular' crown badge
-    rating: 4.5,      // Star rating
-    area: 'Aundh',    // Neighborhood filter ke liye
-    location: 'Aundh, Pune', // Card me display hone wala address
-    price: '₹9,499',
+    name: 'AltF Orchid Business Park',
+    badge: 'Premium',
+    rating: 5.0,
+    area: 'Sohna Road',
+    location: 'Sohna Road, Gurgaon',
+    price: '₹7,999',
     period: '/ month',
-    priceFormatted: '₹9,499 / month',
+    priceFormatted: '₹7,999 / month',
     ctaText: 'Get Quote',
-    // Authentic interior and exterior workspace images from internet
     images: [
-      'https://img.cofynd.com/images/original/2851d6fa3bd6909bca06fc26da49b5cf1cede2ad.jpg',
-      'https://img.cofynd.com/images/original/834fc89f0327b7d9559b17cea07807f9af45fe0e.jpg',
-      'https://img.cofynd.com/images/original/a4eadf8723bbf934307a585ce3a10b87ba80d475.jpg',
-      'https://img.cofynd.com/images/original/cba23fbff5fb9fc8ddd441d8a25f68e8efa1c76b.jpg',
-      'https://img.cofynd.com/images/original/63e2171239c540d2745f634c1f73a3198526040a.jpg'
+      'https://img.cofynd.com/images/latest_images_2024/3c8a8b181154538e68d64fecfdeb7894f0a9d1ad.webp',
+      'https://img.cofynd.com/images/latest_images_2024/5688a14af959947c08198507560f54f0df26a01f.webp',
+      'https://img.cofynd.com/images/latest_images_2024/a4fc1d06cf99771de446a7fd9194a62156bb160e.webp',
+      'https://img.cofynd.com/images/latest_images_2024/115e1c67b9a0f0a1a2162553290cd35b75eb6f54.webp',
+      'https://img.cofynd.com/images/latest_images_2024/a9aec2ab1b0178b56320afcfb83bfd1701b790cf.webp'
     ]
   },
-  // 2. Collab Workspaces - Kharadi, Pune
+  // 2. AltF MGF Megacity - MG Road, Gurgaon
   {
     id: 34,
-    name: 'Collab Workspaces',
+    name: 'AltF MGF Megacity',
     badge: 'Popular',
-    rating: 4.8,
-    area: 'Kharadi',
-    location: 'Kharadi, Pune',
-    price: '₹7,499',
+    rating: 5.0,
+    area: 'MG Road',
+    location: 'MG Road, Gurgaon',
+    price: '₹9,999',
     period: '/ month',
-    priceFormatted: '₹7,499 / month',
+    priceFormatted: '₹9,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/original/35a452410dbdb38b098f51e1feab1ac37610660e.jpg',
-      'https://img.cofynd.com/images/latest_images_2024/590357500eab598657f087eef4dec54b672eb91a.webp',
-      'https://img.cofynd.com/images/original/1b34ea2a5d01a9c268cb660dcf83e0b392cf4f3e.jpg',
-      'https://img.cofynd.com/images/original/a1c0106b57c1301b84810b39d1a67aa99c205ec5.jpg',
-      'https://img.cofynd.com/images/original/a3086bd7c780ef6a8e8bf884e4305aebfd493bef.jpg'
+      'https://img.cofynd.com/images/original/e7af3abc402f952c04a80cd2f559bb487f69183f.jpg',
+      'https://img.cofynd.com/images/original/68189417a2a5ad700ec940844054f46c11645783.jpg',
+      'https://img.cofynd.com/images/latest_images_2024/70df798fef8e6c4bbc763489f3a99fd52486fb7d.webp',
+      'https://img.cofynd.com/images/latest_images_2024/435397aa59c6bfc4022af9bc0db9f19bd1522f42.webp',
+      'https://img.cofynd.com/images/original/b11a5e08dbb616ef2484279803b59d967603ae02.jpg'
     ]
   },
-  // 3. Starthub - Koregaon Park, Pune
+  // 3. Plus Offices - Golf Course Extension Road, Gurgaon
   {
     id: 35,
-    name: 'Starthub',
+    name: 'Plus Offices',
     badge: 'Popular',
     rating: 4.8,
-    area: 'Koregaon Park',
-    location: 'Koregaon Park, Pune',
+    area: 'Golf Course Extension Road',
+    location: 'Golf Course Extension Road, Gurgaon',
+    price: '₹6,999',
+    period: '/ month',
+    priceFormatted: '₹6,999 / month',
+    ctaText: 'Get Quote',
+    images: [
+      'https://img.cofynd.com/images/original/346caa67f2cfc71b4946eba543b6e220c0a30ec2.jpg',
+      'https://img.cofynd.com/images/latest_images_2024/789e17c966bea32f3e2e7af0df6df86e11eb839c.webp',
+      'https://img.cofynd.com/images/latest_images_2024/4447602096c5b98834d72cda6ba3d6cda02c9a09.webp',
+      'https://img.cofynd.com/images/latest_images_2024/147093df143728af836c81546dbd69b5aa145d87.webp',
+      'https://img.cofynd.com/images/latest_images_2024/c1bf9e9fa0d64decfe9271ddc7f9a0cb8ef31a71.webp'
+    ]
+  },
+  // 4. Venture X Landmark Cyberpark - Golf Course Extension Road, Gurgaon
+  {
+    id: 36,
+    name: 'Venture X Landmark Cyberpark',
+    badge: 'Popular',
+    rating: 4.9,
+    area: 'Golf Course Extension Road',
+    location: 'Golf Course Extension Road, Gurgaon',
+    price: '₹12,999',
+    period: '/ month',
+    priceFormatted: '₹12,999 / month',
+    ctaText: 'Get Quote',
+    images: [
+      'https://img.cofynd.com/images/latest_images_2024/4b22b7ab3becf355a2170bca1d1c8015df007577.webp',
+      'https://img.cofynd.com/images/latest_images_2024/ebd075b20931f2f72736d990716eed5cf4d3aa00.webp',
+      'https://img.cofynd.com/images/latest_images_2024/02bd125ca96ba64cfa141ca9c4aa3e7f6790212a.webp',
+      'https://img.cofynd.com/images/latest_images_2024/fa079ab7f69fc0c82e3f012b208d6af96bf6838e.webp',
+      'https://img.cofynd.com/images/latest_images_2024/459696615d6363117e9ca594b5bb5a134612feec.webp'
+    ]
+  },
+  // 5. Divine Workspace - Sector 27, Gurugram
+  {
+    id: 37,
+    name: 'Divine Workspace',
+    badge: null,
+    rating: null,
+    area: 'Sector 27',
+    location: 'Sector 27, Gurugram',
+    price: '₹14,000',
+    period: '/ Month',
+    priceFormatted: '₹14,000 / Month',
+    ctaText: 'Get Quote',
+    images: [
+      'https://img.cofynd.com/images/latest_images_2024/dd7b6947c735856292d80955085f83856ea8e0dc.webp',
+      'https://img.cofynd.com/images/latest_images_2024/3bfe3c57f2ba25880f078b9c2ae6f4a8247819ba.webp',
+      'https://img.cofynd.com/images/latest_images_2024/8d1cbb1ec97092a295d4a9cdef263fbb6de9bcb1.webp',
+      'https://img.cofynd.com/images/latest_images_2024/9b49daacf1c3b94a7be6eaa6debcc150712d3313.webp',
+      'https://img.cofynd.com/images/latest_images_2024/44104dc01711f522beca883d7c5f24eeeba1cb76.webp'
+    ]
+  },
+  // 6. Coworkinsta - DLF Phase IV, Gurgaon
+  {
+    id: 38,
+    name: 'Coworkinsta',
+    badge: 'Popular',
+    rating: 4.8,
+    area: 'DLF Phase 4',
+    location: 'DLF Phase IV, Gurgaon',
     price: '₹7,499',
     period: '/ month',
     priceFormatted: '₹7,499 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/original/15e7d560c947c6bc900d3fb1003bfe9c77e398d2.jpg',
-      'https://img.cofynd.com/images/original/26959197d965a409b93036e1f4aab351a977fa27.jpg',
-      'https://img.cofynd.com/images/original/3a10fd7f1bedb1d5ecd272f0bf0d16aa347576e7.jpg',
-      'https://img.cofynd.com/images/original/e1e23064d108590bcb3319e45573bc49a2ceb395.jpg',
-      'https://img.cofynd.com/images/original/c1ca5ce9ec9caf7c6c1d9af4e976032b9e3021e1.jpg'
+      'https://img.cofynd.com/images/original/14304a80b4fd1c79cd0c09f721d9705ab2c78adf.jpg',
+      'https://img.cofynd.com/images/original/2e92b9e182b49de7f81c26ca35a105e81bf1a6e2.jpg',
+      'https://img.cofynd.com/images/original/528b86699c8bce851c0519a0c0164a99c21b9ce5.jpg',
+      'https://img.cofynd.com/images/original/e15436f2702d375c040f3b1a01aa6efe46d08239.jpg',
+      'https://img.cofynd.com/images/latest_images_2024/a82d998b344c552e325e409a06ae1fe6514d4f83.webp'
     ]
   },
-  // 4. Ideas to Impacts Hub Wakad - Wakad, Pune
-  {
-    id: 36,
-    name: 'Ideas to Impacts Hub Wakad',
-    badge: 'Premium',
-    rating: 4.5,
-    area: 'Wakad',
-    location: 'Wakad, Pune',
-    price: '₹8,999',
-    period: '/ month',
-    priceFormatted: '₹8,999 / month',
-    ctaText: 'Get Quote',
-    images: [
-      'https://img.cofynd.com/images/latest_images_2024/d26ee13c1e786dfe45bc1dae11d76ba82477721e.webp',
-      'https://img.cofynd.com/images/latest_images_2024/15c32e8ebd07fcd00a84e8012d05ec57383de042.webp',
-      'https://img.cofynd.com/images/latest_images_2024/fe808308012ed34e26268efec85259f3b62b092f.webp',
-      'https://img.cofynd.com/images/latest_images_2024/0d0fbf69f720692aaf10184ff0b947bc8caec729.webp'
-    ]
-  },
-  // 5. Ideas to Impacts Hub Viman Nagar - Viman Nagar, Pune
-  {
-    id: 37,
-    name: 'Ideas to Impacts Hub Viman Nagar',
-    badge: 'Premium',
-    rating: 4.4,
-    area: 'Viman Nagar',
-    location: 'Viman Nagar, Pune',
-    price: '₹8,999',
-    period: '/ month',
-    priceFormatted: '₹8,999 / month',
-    ctaText: 'Get Quote',
-    images: [
-      'https://img.cofynd.com/images/latest_images_2024/2c211a7acced772fe46d723e771d68c2d3cea6fd.webp',
-      'https://img.cofynd.com/images/latest_images_2024/7428c8d0f119ddab9ff4ab9eb8e0c74de5e6021a.webp',
-      'https://img.cofynd.com/images/latest_images_2024/9dc5d741c498203f7560e04bd0ed278b38544631.webp',
-      'https://img.cofynd.com/images/latest_images_2024/a2d5a44ab6b933bc773cb84ac006aa252f914a5b.webp'
-    ]
-  },
-  // 6. TRIOS Lalwani House - Viman Nagar, Pune
-  {
-    id: 38,
-    name: 'TRIOS Lalwani House',
-    badge: 'Popular',
-    rating: null, // Screenshot me star rating nahi hai
-    area: 'Viman Nagar',
-    location: 'Sakore Nagar, Viman Nagar, Pune',
-    price: '₹8,999',
-    period: '/ month',
-    priceFormatted: '₹8,999 / month',
-    ctaText: 'Get Quote',
-    images: [
-      'https://img.cofynd.com/images/latest_images_2024/35ba5f2e7fb3ecea59578755dfb90e57bfa9f84e.webp',
-      'https://img.cofynd.com/images/latest_images_2024/f2d5634d7c765d4d1cb6a234a0425d0a8eac3121.webp',
-      'https://img.cofynd.com/images/latest_images_2024/b2509f917049d71b201f04f0aeb01f13356df2d2.webp',
-      'https://img.cofynd.com/images/latest_images_2024/b886d41fdbad671c310e7b7fc4c6d69f48c018c0.webp',
-      'https://img.cofynd.com/images/latest_images_2024/5e21f76c961fce9729833e73394892bd65e97464.webp'
-    ]
-  },
-  // 7. FMTOS - Pimpri-Chinchwad, Pune
+  // 7. AltF Coworking JMD Empire Square - MG Road, Gurgaon
   {
     id: 39,
-    name: 'FMTOS',
-    badge: null,  // Screenshot me koi badge nahi hai
-    rating: null, // Screenshot me rating nahi hai
-    area: 'Pimpri Chinchwad',
-    location: 'Pimpri-Chinchwad, Pune',
-    price: '₹8,499',
+    name: 'AltF Coworking JMD Empire Square',
+    badge: 'Popular',
+    rating: 4.6,
+    area: 'MG Road',
+    location: 'MG Road, Gurgaon',
+    price: '₹10,999',
     period: '/ month',
-    priceFormatted: '₹8,499 / month',
+    priceFormatted: '₹10,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/latest_images_2024/50ffa88db04bd7bb35b184d61839be6b54b2d459.webp',
-      'https://img.cofynd.com/images/latest_images_2024/c2e746539de0b5efcf0599f153b8680c8ad5ffe3.webp',
-      'https://img.cofynd.com/images/latest_images_2024/04985d4ed401b1ecfd9f4b2f3ccd7e310afe7def.webp',
-      'https://img.cofynd.com/images/latest_images_2024/fb62c69f8d4ec70ea2c01cf3cd04997db605bb2d.webp',
-      'https://img.cofynd.com/images/latest_images_2024/851974e26cd07c777d2290f7bd4ca3647868d0c4.webp'
+      'https://img.cofynd.com/images/latest_images_2024/0151e1a984514d11bd222cc5a60382d96d4aebc1.webp',
+      'https://img.cofynd.com/images/latest_images_2024/b95b6570c8cf46edac21dc64c765cd42d317c416.webp',
+      'https://img.cofynd.com/images/latest_images_2024/752772b9a80b9109dbf3643569fdc71dc35c6619.webp',
+      'https://img.cofynd.com/images/latest_images_2024/357b95df09472d27232e9ca949f5ff10b6bb262a.webp',
+      'https://img.cofynd.com/images/latest_images_2024/0359a90ae8f8cd8e99ce62885b105515d4538390.webp'
     ]
   },
-  // 8. Bootstart Coworking – Arcadian Koregaon Park - Koregaon Park, Pune
+  // 8. Co Offiz - Golf Course Extension Road, Gurgaon
   {
     id: 40,
-    name: 'Bootstart Coworking – Arcadian Koregaon Park',
+    name: 'Co Offiz',
     badge: 'Premium',
-    rating: 4.3,
-    area: 'Koregaon Park',
-    location: 'Koregaon Park, Pune',
-    price: '₹7,000',
+    rating: 4.8,
+    area: 'Golf Course Extension Road',
+    location: 'Golf Course Extension Road, Gurgaon',
+    price: '₹8,999',
     period: '/ month',
-    priceFormatted: '₹7,000 / month',
+    priceFormatted: '₹8,999 / month',
     ctaText: 'Get Quote',
     images: [
-      'https://img.cofynd.com/images/latest_images_2024/2f0f1c4e9925f904ea67539c7445b6ea00b901a5.webp',
-      'https://img.cofynd.com/images/latest_images_2024/5db3a9a333c060b19ecd3b2ceba811bb7a55c00f.webp',
-      'https://img.cofynd.com/images/latest_images_2024/211b8b898ab041af8f2f5ae2318db7b6a7470949.webp',
-      'https://img.cofynd.com/images/latest_images_2024/e991a43662fa571c2a1977c0975ad0c97461e5a6.webp',
-      'https://img.cofynd.com/images/latest_images_2024/2d9e7739decb78af7960b6956ed5b8e94cbd1e82.webp'
+      'https://img.cofynd.com/images/latest_images_2024/7dcaa9d67dc03a13b523937e9d67e355b8bcbef9.webp',
+      'https://img.cofynd.com/images/latest_images_2024/ed89abd86772ccdbb11fd96a2fce4890dcadd3b3.webp',
+      'https://img.cofynd.com/images/original/9b190a724a00292cac2850dd582e59f267494729.jpg',
+      'https://img.cofynd.com/images/original/278d9488bc0247c8aa6f5d323986ab96661dcafe.jpg',
+      'https://img.cofynd.com/images/latest_images_2024/262c765a13a39dd8f25c58c479ae36a80a5f933a.webp'
     ]
   }
 ];
@@ -5861,6 +5864,74 @@ export const allPuneOfficeCards = [
   // Include all area-specific extra cards for detail page lookup
   ...(typeof areaExtraOfficeCards !== 'undefined' ? Object.values(areaExtraOfficeCards).flat() : [])
 ];
+
+const gurugramDirectorySlugs = {
+  'Udyog Vihar': 'udyog-vihar',
+  'Sector 44': 'sector-44',
+  'Sohna Road': 'sohna-road',
+  'MG Road Gurugram': 'mg-road-gurugram',
+  'Golf Course Road': 'golf-course-road',
+  'DLF Cyber City': 'dlf-cyber-city',
+  'Unitech Cyber Park': 'unitech-cyber-park',
+  'Cyber Hub': 'cyber-hub',
+  'Golf Course Extension Road': 'golf-course-extension-road',
+  'Cyber City': 'cyber-city',
+  'Huda City Centre': 'huda-city-centre',
+  'Sector 18': 'sector-18',
+  'Sector 29': 'sector-29',
+  'Sushant Lok': 'sushant-lok',
+  'Sector 39': 'sector-39',
+  'Sector 49': 'sector-49',
+  'Sector 38': 'sector-38',
+  'Sector 48': 'sector-48',
+  'Sector 54': 'sector-54',
+  'DLF Phase 4': 'dlf-phase-4',
+  'Sector 67': 'sector-67',
+  'NH 8': 'nh-8',
+  'DLF Phase 3': 'dlf-phase-3',
+  'Iffco Chowk': 'iffco-chowk',
+  'Ambience Mall': 'ambience-mall'
+};
+
+const normalizeGurugramArea = (value) => String(value || '').trim().toLowerCase();
+
+export const gurugramCoworkingSpacesBySubLocation = Object.fromEntries(
+  puneNeighborhoods.map((subLocation) => [
+    subLocation,
+    allPuneOfficeCards
+      .filter((office) => normalizeGurugramArea(office.area) === normalizeGurugramArea(subLocation))
+      .map((office) => {
+        const images = [...new Set(office.images || [])];
+        const monthlyPrice = office.priceFormatted || `${office.price || ''} ${office.period || ''}`.trim();
+
+        return {
+          ...office,
+          subLocation,
+          location: office.location || office.address || '',
+          address: office.address || office.location || '',
+          price: monthlyPrice,
+          priceFormatted: office.priceFormatted || office.price,
+          mainImage: office.mainImage || images[0] || '',
+          images,
+          sourceUrl: `https://cofynd.com/coworking/gurugram/${gurugramDirectorySlugs[subLocation]}`
+        };
+      })
+  ])
+);
+
+Object.assign(
+  areaExtraOfficeCards,
+  Object.fromEntries(
+    Object.entries(gurugramCoworkingSpacesBySubLocation).map(([subLocation, offices]) => [
+      subLocation,
+      offices.map((office) => ({
+        ...office,
+        price: office.priceFormatted || office.price,
+        priceFormatted: office.priceFormatted || office.price
+      }))
+    ])
+  )
+);
 
 /**
  * Find a Pune office card by ID across all pagination pages
