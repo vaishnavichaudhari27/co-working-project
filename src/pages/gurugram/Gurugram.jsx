@@ -19,6 +19,9 @@ import { puneNeighborhoods,
     pageThreeFinalPuneOfficeCards,
     pageThreeFeaturedPuneOfficeCards,
     pageFourPuneOfficeCards,
+    pageFourMorePuneOfficeCards,
+    pageFourFinalPuneOfficeCards,
+    pageFourFeaturedPuneOfficeCards,
     topPuneCoworkingLocations,
     areaExtraOfficeCards
 
@@ -290,7 +293,7 @@ const Gurugram = () => {
     ? combinedSpaces.filter(matchesPrice)
     : combinedSpaces;
 
-  const activeMoreSpaces = currentPage === 1 ? morePuneOfficeCards : currentPage === 2 ? pageTwoMorePuneOfficeCards : currentPage === 3 ? pageThreeMorePuneOfficeCards : [];
+  const activeMoreSpaces = currentPage === 1 ? morePuneOfficeCards : currentPage === 2 ? pageTwoMorePuneOfficeCards : currentPage === 3 ? pageThreeMorePuneOfficeCards : currentPage === 4 ? pageFourMorePuneOfficeCards : [];
 
   const displayedMoreSpaces = activeMoreSpaces.filter((space) => {
     const matchesArea = !selectedNeighborhood ||
@@ -299,7 +302,7 @@ const Gurugram = () => {
     return matchesArea && matchesPrice(space);
   });
 
-  const activeFinalSpaces = currentPage === 1 ? finalPuneOfficeCards : currentPage === 2 ? pageTwoFinalPuneOfficeCards : currentPage === 3 ? pageThreeFinalPuneOfficeCards : [];
+  const activeFinalSpaces = currentPage === 1 ? finalPuneOfficeCards : currentPage === 2 ? pageTwoFinalPuneOfficeCards : currentPage === 3 ? pageThreeFinalPuneOfficeCards : currentPage === 4 ? pageFourFinalPuneOfficeCards : [];
 
   const displayedFinalSpaces = activeFinalSpaces.filter((space) => {
     const matchesArea = !selectedNeighborhood ||
@@ -308,7 +311,7 @@ const Gurugram = () => {
     return matchesArea && matchesPrice(space);
   });
 
-  const activeOfficeCards = currentPage === 1 ? featuredPuneOfficeCards : currentPage === 2 ? pageTwoFeaturedPuneOfficeCards : currentPage === 3 ? pageThreeFeaturedPuneOfficeCards : []; 
+  const activeOfficeCards = currentPage === 1 ? featuredPuneOfficeCards : currentPage === 2 ? pageTwoFeaturedPuneOfficeCards : currentPage === 3 ? pageThreeFeaturedPuneOfficeCards : currentPage === 4 ? pageFourFeaturedPuneOfficeCards : []; 
 
   const displayedFeaturedSpaces = activeOfficeCards.filter((space) => {
     const matchesArea = !selectedNeighborhood ||
